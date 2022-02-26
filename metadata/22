@@ -1,0 +1,19 @@
+{
+    "image": "https://github.com/yourboyjus/itsme.git22.png",
+    "tokenId": 22,
+    "name": "Girls 22",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "hair",
+            "value": "orange"
+        },
+        {
+            "trait_type": "cover",
+            "value": "cool"
+        }
+    ]
+}

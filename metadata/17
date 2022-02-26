@@ -1,0 +1,19 @@
+{
+    "image": "https://github.com/yourboyjus/itsme.git17.png",
+    "tokenId": 17,
+    "name": "Girls 17",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "hair",
+            "value": "purple"
+        },
+        {
+            "trait_type": "cover",
+            "value": "cool"
+        }
+    ]
+}

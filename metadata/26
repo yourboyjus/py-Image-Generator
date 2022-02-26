@@ -1,0 +1,19 @@
+{
+    "image": "https://github.com/yourboyjus/itsme.git26.png",
+    "tokenId": 26,
+    "name": "Girls 26",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "hair",
+            "value": "red"
+        },
+        {
+            "trait_type": "cover",
+            "value": "fancy"
+        }
+    ]
+}

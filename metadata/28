@@ -1,0 +1,19 @@
+{
+    "image": "https://github.com/yourboyjus/itsme.git28.png",
+    "tokenId": 28,
+    "name": "Girls 28",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "hair",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "cover",
+            "value": "cool"
+        }
+    ]
+}

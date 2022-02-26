@@ -1,0 +1,19 @@
+{
+    "image": "https://github.com/yourboyjus/itsme.git42.png",
+    "tokenId": 42,
+    "name": "Girls 42",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "hair",
+            "value": "orange"
+        },
+        {
+            "trait_type": "cover",
+            "value": "casual"
+        }
+    ]
+}

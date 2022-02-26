@@ -1,0 +1,19 @@
+{
+    "image": "https://github.com/yourboyjus/itsme.git2.png",
+    "tokenId": 2,
+    "name": "Girls 2",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue"
+        },
+        {
+            "trait_type": "hair",
+            "value": "orange"
+        },
+        {
+            "trait_type": "cover",
+            "value": "cool"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "image": "https://github.com/yourboyjus/itsme.git9.png",
+    "tokenId": 9,
+    "name": "Girls 9",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "blue"
+        },
+        {
+            "trait_type": "hair",
+            "value": "yellow"
+        },
+        {
+            "trait_type": "cover",
+            "value": "cool"
+        }
+    ]
+}

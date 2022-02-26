@@ -1,0 +1,19 @@
+{
+    "image": "https://github.com/yourboyjus/itsme.git48.png",
+    "tokenId": 48,
+    "name": "Girls 48",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "hair",
+            "value": "purple"
+        },
+        {
+            "trait_type": "cover",
+            "value": "love"
+        }
+    ]
+}
